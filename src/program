@@ -1,0 +1,13 @@
+#This is a test program
+DEFINE A 5
+DEFINE B 7
+PUSH A
+PUSH B
+PRINT
++
+PUSH 3
+*
+SQRT
+PRINT
+POP
+PRINT
